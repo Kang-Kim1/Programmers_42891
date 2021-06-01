@@ -9,6 +9,6 @@
 2. ArrayList 에 input 정보를 담은 Food 객체들 입력
 3. Index, Time 오름차순 정렬을 위한 Comparator 생성
 4. Time 기준으로 ArrayList 정렬
-5. 방송이 중단되는 시간까지 각 음식의 시간 차감 && i
-
+5. 방송이 중단되는 시간까지 각 음식의 시간 차감 
 6. 방송 중단 시점에서 남은 음식들만 index기준 정렬
+7. 정렬된 음식 중 
