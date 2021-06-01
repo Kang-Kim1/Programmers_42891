@@ -5,7 +5,7 @@
 아직 갈길이 먼 것 같다..    
 
 실행 순서는 다음과 같습니다 :  
-1 Food 객체(instance 변수 : long time, int index)
+1. Food 객체(instance 변수 : long time, int index)
 2. ArrayList 에 input 정보를 담은 Food 객체들 입력
 3. Index, Time 오름차순 정렬을 위한 Comparator 생성
 4. Time 기준으로 ArrayList 정렬
